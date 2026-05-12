@@ -1,0 +1,14 @@
+# full_ariel-user 5.1.1 LVY48F 20.6.0.5_user_605487420 release-keys
+- manufacturer: amazon
+- platform: mt8135
+- codename: ariel
+- flavor: full_ariel-user
+- release: 5.1.1
+- id: LVY48F
+- incremental: 20.6.0.5_user_605487420
+- tags: release-keys
+- fingerprint: Amazon/full_ariel/ariel:5.1.1/LVY48F/20.6.0.5_user_605487420:user/release-keys
+- is_ab: false
+- brand: Amazon
+- branch: full_ariel-user-5.1.1-LVY48F-20.6.0.5_user_605487420-release-keys
+- repo: amazon_ariel_dump
